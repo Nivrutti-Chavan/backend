@@ -1,0 +1,4 @@
+/* pass: MZbGCpYZijJZqr66
+mongodb+srv://backend:%3Cdb_MZbGCpYZijJZqr66%3E@backend.k16f8zy.mongodb.net/
+
+mongodb+srv://backend:MZbGCpYZijJZqr66@backend.k16f8zy.mongodb.net/
